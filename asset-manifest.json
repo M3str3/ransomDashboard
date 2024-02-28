@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ransomDashboard/static/css/main.186fc47b.css",
-    "main.js": "/ransomDashboard/static/js/main.6d718381.js",
+    "main.js": "/ransomDashboard/static/js/main.5bf0e77c.js",
     "index.html": "/ransomDashboard/index.html",
     "main.186fc47b.css.map": "/ransomDashboard/static/css/main.186fc47b.css.map",
-    "main.6d718381.js.map": "/ransomDashboard/static/js/main.6d718381.js.map"
+    "main.5bf0e77c.js.map": "/ransomDashboard/static/js/main.5bf0e77c.js.map"
   },
   "entrypoints": [
     "static/css/main.186fc47b.css",
-    "static/js/main.6d718381.js"
+    "static/js/main.5bf0e77c.js"
   ]
 }
