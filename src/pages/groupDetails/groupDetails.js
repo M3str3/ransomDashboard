@@ -45,7 +45,7 @@ const GroupDetails = () => {
             <div className="attack-card" key={index}>
               <h3>{attack.post_title}</h3>
               <p>Fecha de publicación: {attack.published}</p>
-              <p>Description: {attack.description}</p>
+              <p>Descripción: {attack.description}</p>
             </div>
           ))
         ) : (
