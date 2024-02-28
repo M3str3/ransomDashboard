@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ransomDashboard/static/css/main.186fc47b.css",
+    "main.js": "/ransomDashboard/static/js/main.fcad8eb6.js",
+    "index.html": "/ransomDashboard/index.html",
+    "main.186fc47b.css.map": "/ransomDashboard/static/css/main.186fc47b.css.map",
+    "main.fcad8eb6.js.map": "/ransomDashboard/static/js/main.fcad8eb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.186fc47b.css",
+    "static/js/main.fcad8eb6.js"
+  ]
+}
