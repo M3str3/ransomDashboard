@@ -47,7 +47,7 @@ const App = () => {
       <header className="header">
         <div className="dashboard-title">
           <img
-            src="/satanic-pc.png"
+            src={`${process.env.PUBLIC_URL}/satanic-pc.png`}
             alt="Dashboard Icon"
             className="dashboard-icon"
           />

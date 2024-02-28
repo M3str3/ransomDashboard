@@ -6,9 +6,11 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { DataProvider } from "./dataContext";
 
 const App = () => {
+  const homepage = process.env.PUBLIC_URL;
+
   return (
     <DataProvider>
-      <Router basename="/ransomDashboard">
+      <Router basename={homepage ? homepage : '/'}>
         <Routes>
           <Route path="/" element={<Dashboard />} />
           <Route path="/:groupName" element={<GroupDetails />} />
