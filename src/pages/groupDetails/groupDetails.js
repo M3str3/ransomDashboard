@@ -44,7 +44,7 @@ const GroupDetails = () => {
           filteredGroupData.map((attack, index) => (
             <div className="attack-card" key={index}>
               <h3>{attack.post_title}</h3>
-              <p>Fecha de publicacion: {attack.published}</p>
+              <p>Fecha de publicación: {attack.published}</p>
               <p>Description: {attack.description}</p>
             </div>
           ))
