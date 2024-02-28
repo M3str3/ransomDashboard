@@ -8,7 +8,7 @@ import { DataProvider } from "./dataContext";
 const App = () => {
   return (
     <DataProvider>
-      <Router>
+      <Router basename="/ransomDashboard">
         <Routes>
           <Route path="/" element={<Dashboard />} />
           <Route path="/:groupName" element={<GroupDetails />} />
