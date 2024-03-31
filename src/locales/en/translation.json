@@ -1,0 +1,12 @@
+{
+    "dashboard_maintext": "Ransomware Attack Dashboard",
+    "graph_title": "Number of ransomware attacks by group",
+    "graph_label": "Number of attacks",
+    "graph_order_button": "Order by number of attacks",
+    "details_title": "Group attacks",
+    "details_search": "Search for victim",
+    "details_div_date": "Date of publication",
+    "details_div_description": "Description",
+    "details_search_no_results": "No results found",
+    "details_no_data": "No data found for."
+}
